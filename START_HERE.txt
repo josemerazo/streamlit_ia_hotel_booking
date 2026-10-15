@@ -1,0 +1,12 @@
+DEMO PARA CLASE - STREAMLIT + OLLAMA + SCIKIT-LEARN
+
+1) Crear un entorno virtual.
+2) Activarlo.
+3) Instalar: python -m pip install -r requirements.txt
+4) Opcional: ollama pull llama3.2:3b
+5) Ejecutar: python -m streamlit run app.py
+
+Dataset incluido:
+data/diabetes_sklearn.csv
+
+Objetivo: mostrar una versión básica y reproducible del Proyecto Final Integrador.

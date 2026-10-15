@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+.env
+.ipynb_checkpoints/
+.vscode/
+*.gguf
+.ollama/
+# CSV de la raíz: la copia versionada vive en data/
+/hotel_bookings.csv
